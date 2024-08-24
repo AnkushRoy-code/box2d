@@ -1,3 +1,5 @@
+This fork is here until the official repo publishes the release of v3.0.1 I really needed that so I forked this repo. You shall have no reason to use this fork instead of the original one.
+
 ![Box2D Logo](https://box2d.org/images/logo.svg)
 
 # Build Status
